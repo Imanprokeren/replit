@@ -1,1 +1,0 @@
-pm2 start node index.js && pm save && pm logs
